@@ -47,7 +47,7 @@ productos.addProduct(
   "Marca BIC",
   1000,
   "https://cdn.pixabay.com/photo/2021/04/20/02/01/lighter-6192769_1280.png",
-  1,
+  "abc123",
   10
 );
 productos.addProduct(
